@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOWFlZTUxZTUtNjMwZS00NDJhLTg0ZGYtY2ZkNWQ5NDVlMzdmIiwidCI6ImVjMzgwYThhLWYwMjUtNGQ2Yi1hOGYzLTQ5YmEyMmYxOGI1NiJ9">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
